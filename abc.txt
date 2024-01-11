@@ -1,2 +1,2 @@
 This is my git first demo to understand 
-working area, staging area, local repository and remote repository
+This is to learn update
